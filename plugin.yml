@@ -1,0 +1,6 @@
+name: FloatingText
+main: FloatingText\Main
+version: 1.0
+api: 2.0.0
+author: MagicPanda
+description: A simple floating text plugin
