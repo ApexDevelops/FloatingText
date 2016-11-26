@@ -1,0 +1,18 @@
+#===========================================#
+#{ONLINE} Shows the number of players online
+#{MAXONLINE} Show the number of max player online
+#{PLAYERNAME} Shows player's name
+#{MOTE} Show server motd
+#{IP} Show Server ip
+#{PORT} Show server port
+#{VERSION} Show server version
+#===========================================#
+LINE1: "§7Welcome back, §b{PLAYERNAME} §7!"
+LINE2: "§7There are §b{ONLINE}/{MAXONLINE} §7Players online!"
+LINE3: "{IP}:{PORT}"
+LINE4: "{VERSION}"
+LINE5: "{MOTE}"
+#Coordinates
+Xs: 195
+Ys: 66
+Zs: 71
