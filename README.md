@@ -10,3 +10,7 @@ A very simple welcoming floating text for Pockermine-MP plugin.
 - {IP} Show Server ip
 - {PORT} Show server port
 - {VERSION} Show server version
+
+# Download
+
+- https://github.com/MagicPandaDev/FloatingText/releases/tag/1.0
