@@ -1,6 +1,6 @@
 # FloatingText
 
-A very simple welcoming floating text for Pockermine-MP plugin.
+A very simple floating text for Pockermine-MP plugin.
 
 # Variables:
 - {ONLINE} Shows the number of players online
