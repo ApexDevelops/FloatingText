@@ -2,6 +2,12 @@
 
 A very simple floating text for Pockermine-MP plugin.
 
+# Works on
+- Elywing
+- Genisys
+- Hydrcon(testing)
+- Clearsky(testing)
+
 # Variables:
 - {ONLINE} Shows the number of players online
 - {MAXONLINE} Show the number of max player online
