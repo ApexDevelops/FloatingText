@@ -43,6 +43,7 @@ class Main extends PluginBase implements Listener{
                 $line3 = $cfg->get("LINE3"); 
                 $line4 = $cfg->get("LINE4"); 
                 $line5 = $cfg->get("LINE5"); 
+                $line6 = $cfg->get("LINE6"); 
                      $online = count(Server::getInstance()->getOnlinePlayers()); 
                     $maxonline = $this->getServer()->getMaxPlayers();
                    $playername = $player->getName();
@@ -51,7 +52,7 @@ class Main extends PluginBase implements Listener{
                 $port = $this->getServer()->getPort();
                $version = $this->getServer()->getVersion();                                  
               $rs = TF::RESET. "\n";
-              $allline = $line1. $rs. $line2. $rs. $line3. $rs. $line4. $rs. $line5; 
+              $allline = $line1. $rs. $line2. $rs. $line3. $rs. $line4. $rs. $line5. $rs. &line6; 
               $allline = str_replace("{ONLINE}", $online, $allline);
               $allline = str_replace("{MAXONLINE}", $maxonline, $allline);
               $allline = str_replace("{PLAYERNAME}", $playername, $allline);
