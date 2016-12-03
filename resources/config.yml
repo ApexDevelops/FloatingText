@@ -13,6 +13,7 @@ LINE3: "{IP}:{PORT}"
 LINE4: "{VERSION}"
 LINE5: "{MOTE}"
 LINE6: "Hello"
+LINE7: "{MOTE}
 #Coordinates
 Xs: 195
 Ys: 66
