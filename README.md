@@ -19,5 +19,5 @@ A very simple floating text for Pockermine-MP plugin.
 
 # Download
 
-- https://github.com/MagicPandaDev/FloatingText/releases/tag/1.0
+- https://github.com/iiInfinityHD/FloatingText/releases/tag/1.0
 - https://www.imagicalmine.net/community/plugins/floatingtext.644/
