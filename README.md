@@ -8,6 +8,9 @@ A very simple floating text for Pockermine-MP plugin.
 - Hydrcon(testing)
 - Clearsky(testing)
 
+# Commands 
+- /cord - to find your cords
+
 # Variables:
 - {ONLINE} Shows the number of players online
 - {MAXONLINE} Show the number of max player online
@@ -19,5 +22,5 @@ A very simple floating text for Pockermine-MP plugin.
 
 # Download
 
-- https://github.com/iiInfinityHD/FloatingText/releases/tag/1.0
+- https://github.com/iiInfinityHD/FloatingText/releases/tag/1.1
 - https://www.imagicalmine.net/community/plugins/floatingtext.644/
