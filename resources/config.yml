@@ -12,9 +12,6 @@ LINE2: "§7There are §b{ONLINE}/{MAXONLINE} §7Players online!"
 LINE3: "{IP}:{PORT}"
 LINE4: "{VERSION}"
 LINE5: "{MOTE}"
-LINE6: "Hello"
-LINE7: "{MOTE}
-LINE8: "Hi"
 #Coordinates
 Xs: 195
 Ys: 66
