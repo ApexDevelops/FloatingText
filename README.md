@@ -5,8 +5,6 @@ A very simple floating text for Pockermine-MP plugin.
 # Works on
 - Elywing
 - Genisys
-- Hydrcon(testing)
-- Clearsky(testing)
 
 # Commands 
 - /cord - to find your cords

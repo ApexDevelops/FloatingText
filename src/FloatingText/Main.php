@@ -1,4 +1,17 @@
 <?php
+
+/*
+*
+* ______ _             _   _          _______        _   
+*|  ____| |           | | (_)        |__   __|      | |  
+*| |__  | | ___   __ _| |_ _ _ __   __ _| | _____  _| |_ 
+*|  __| | |/ _ \ / _` | __| | '_ \ / _` | |/ _ \ \/ / __|
+*| |    | | (_) | (_| | |_| | | | | (_| | |  __/>  <| |_ 
+*|_|    |_|\___/ \__,_|\__|_|_| |_|\__, |_|\___/_/\_\\__|
+*                                   __/ |                
+*                                  |___/           
+*
+*/
 	
 namespace FloatingText;
 
@@ -25,7 +38,7 @@ class Main extends PluginBase implements Listener{
     public function onEnable(){
 	$this->saveDefaultConfig();
     	$this->getServer()->getPluginManager()->registerEvents($this ,$this);
-        $this->getLogger()->info(TF::GREEN ."Plugin by MagicPanda Enabled!");
+        $this->getLogger()->info(TF::GREEN ."Plugin Enabled!");
     }
     
     public function onDisable(){
