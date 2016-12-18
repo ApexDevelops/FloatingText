@@ -20,5 +20,5 @@ A very simple floating text for Pockermine-MP plugin.
 
 # Download
 
-- https://github.com/iiInfinityHD/FloatingText/releases/tag/1.1
-- https://www.imagicalmine.net/community/plugins/floatingtext.644/
+- [phar file](https://github.com/iiInfinityHD/FloatingText/releases/tag/1.1)
+- [imagicalmine](https://www.imagicalmine.net/community/plugins/floatingtext.644/)
