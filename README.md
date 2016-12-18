@@ -3,8 +3,8 @@
 A very simple floating text for Pockermine-MP plugin.
 
 # Works on
-- Elywing
-- Genisys
+- [Elywing](https://github.com/H4PM/Elywing)
+- [Genisys](https://github.com/iTXTech/Genisys)
 
 # Commands 
 - /cord - to find your cords
