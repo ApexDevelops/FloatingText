@@ -36,7 +36,7 @@ class cord extends command {
 $cx = $player->getX();
 $cy = $player->getY();
 $cz = $player->getZ();
-				$sender->sendMessage(TextFormat::GREEN . "cordonnes of $player are: $cx / $cy / $cz");
+				$sender->sendMessage(TextFormat::GREEN . "Coordinates of $player are: $cx / $cy / $cz");
 			}
 			else{
 				$sender->sendMessage(TextFormat::RED . "Player not Online");

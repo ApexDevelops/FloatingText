@@ -12,7 +12,19 @@ LINE2: "§7There are §b{ONLINE}/{MAXONLINE} §7Players online!"
 LINE3: "{IP}:{PORT}"
 LINE4: "{VERSION}"
 LINE5: "{MOTE}"
+
+LINE6: "§7Welcome back, §b{PLAYERNAME} §7!"
+LINE7: "§7There are §b{ONLINE}/{MAXONLINE} §7Players online!"
+LINE8: "{IP}:{PORT}"
+LINE9: "{VERSION}"
+LINE10: "{MOTE}"
 #Coordinates
-Xs: 195
-Ys: 66
-Zs: 71
+#first text
+Xs: 273
+Ys: 67
+Zs: 197
+
+#second text
+Xss: 259
+Yss: 67
+Zss: 192

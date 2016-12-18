@@ -52,11 +52,19 @@ class Main extends PluginBase implements Listener{
            $x1 = $cfg->get("Xs");
            $y1 = $cfg->get("Ys");
            $z1 = $cfg->get("Zs");
+           $x2 = $cfg->get("Xss");
+           $y2 = $cfg->get("Yss");
+           $z2 = $cfg->get("Zss");
                 $line1 = $cfg->get("LINE1");  
                 $line2 = $cfg->get("LINE2"); 
                 $line3 = $cfg->get("LINE3"); 
                 $line4 = $cfg->get("LINE4"); 
                 $line5 = $cfg->get("LINE5"); 
+                $line6 = $cfg->get("LINE6");  
+                $line7 = $cfg->get("LINE7"); 
+                $line8 = $cfg->get("LINE8"); 
+                $line9 = $cfg->get("LINE9"); 
+                $line10 = $cfg->get("LINE10"); 
                      $online = count(Server::getInstance()->getOnlinePlayers()); 
                     $maxonline = $this->getServer()->getMaxPlayers();
                    $playername = $player->getName();
@@ -74,6 +82,16 @@ class Main extends PluginBase implements Listener{
               $allline = str_replace("{PORT}", $port, $allline);
               $allline = str_replace("{VERSION}", $version, $allline);
               $level->addparticle(new FloatingTextParticle(new Vector3($x1, $y1, $z1), $allline));
+              
+              $allline1 = $line6. $rs. $line7. $rs. $line8. $rs. $line9. $rs. $line10;
+              $allline1 = str_replace("{ONLINE}", $online, $allline);
+              $allline1 = str_replace("{MAXONLINE}", $maxonline, $allline);
+              $allline1 = str_replace("{PLAYERNAME}", $playername, $allline);
+              $allline1 = str_replace("{IP}", $ip, $allline);
+              $allline1 = str_replace("{MOTE}", $mote, $allline);
+              $allline1 = str_replace("{PORT}", $port, $allline);
+              $allline1 = str_replace("{VERSION}", $version, $allline);
+              $level->addparticle(new FloatingTextParticle(new Vector3($x2, $y2, $z2), $allline1));
             
          }
        public function onLoad(){
