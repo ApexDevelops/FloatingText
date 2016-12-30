@@ -5,6 +5,7 @@ A very simple floating text for Pockermine-MP plugin.
 # Works on
 - [Elywing](https://github.com/H4PM/Elywing)
 - [Genisys](https://github.com/iTXTech/Genisys)
+- [BlueLight](https://github.com/BlueLightJapan/BlueLight)
 
 # Commands 
 - /cord - to find your cords
