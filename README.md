@@ -23,3 +23,4 @@ A very simple floating text for Pockermine-MP plugin.
 
 - [phar file](https://github.com/iiInfinityHD/FloatingText/releases/tag/1.1)
 - [imagicalmine](https://www.imagicalmine.net/community/plugins/floatingtext.644/)
+- [poggit](https://poggit.pmmp.io/ci/ApexDevelops/FloatingText/FloatingText)
