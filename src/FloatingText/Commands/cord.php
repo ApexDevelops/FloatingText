@@ -23,7 +23,7 @@ use pocketmine\item\Item;
 use FloatingText\Main;
 
 class cord extends command {
-	protected $usage = "/cord [args]";
+	protected $usage = "/cords [args]";
 	public function execute(CommandSender $sender, $command, array $args){
 		if($sender instanceof Player) {
 			$x = $sender->getX();
@@ -43,7 +43,7 @@ $cz = $player->getZ();
 			}
 		} elseif(count($args) == 0) {
 		if($sender instanceof Player) {
-			$sender->sendMessage(TextFormat::AQUA . "Your coordinates are: $x / $y / $z");
+			$sender->sendMessage(TextFormat::GREEN . "Your coordinates are: $x / $y / $z");
 
 		}else{
 			$sender->sendMessage(TextFormat::RED . "PLEASE GO IN THE GAME TO USE THIS COMMAND!");

@@ -95,7 +95,7 @@ class Main extends PluginBase implements Listener{
             
          }
        public function onLoad(){
-		$this->getServer()->getCommandMap()->register("cord", new cord("cord"));
+		$this->getServer()->getCommandMap()->register("cords", new cord("cords"));
 	}
           
 }
