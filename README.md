@@ -1,6 +1,7 @@
 # FloatingText
 
 A very simple floating text for Pockermine-MP plugin.
+- [![Poggit-CI](https://poggit.pmmp.io/ci.badge/ApexDevelops/FloatingText/FloatingText)](https://poggit.pmmp.io/ci/ApexDevelops/FloatingText/FloatingText)
 
 # Works on
 - [Elywing 1.0.0](https://github.com/H4PM/Elywing)
@@ -21,5 +22,5 @@ A very simple floating text for Pockermine-MP plugin.
 
 # Download
 
-- [phar file](https://github.com/iiInfinityHD/FloatingText/releases/tag/1.1)
-- [imagicalmine](https://www.imagicalmine.net/community/plugins/floatingtext.644/)
+- [phar file](https://github.com/ApexDevelops/FloatingText/releases)
+- [poggit](https://poggit.pmmp.io/ci/ApexDevelops/FloatingText/FloatingText)

@@ -1,6 +1,6 @@
 name: FloatingText
 main: FloatingText\Main
-version: 1.1
-api: [2.1.0, 3.0.0-ALPHA1]
+version: 1.2
+api: 2.1.0
 author: ApexDevelops
 description: A simple floating text plugin
