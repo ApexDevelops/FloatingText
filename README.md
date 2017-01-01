@@ -9,7 +9,7 @@ A very simple floating text for Pockermine-MP plugin.
 - [BlueLight 1.0.0](https://github.com/BlueLightJapan/BlueLight)
 
 # Commands 
-- /cord - to find your cords
+- /cords - to find your Cordinates
 
 # Variables:
 - {ONLINE} Shows the number of players online
