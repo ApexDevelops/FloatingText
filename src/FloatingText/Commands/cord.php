@@ -36,17 +36,17 @@ class cord extends command {
 $cx = $player->getX();
 $cy = $player->getY();
 $cz = $player->getZ();
-				$sender->sendMessage(TextFormat::GREEN . "Coordinates of $player are: $cx / $cy / $cz");
+				$sender->sendMessage(TextFormat::GREEN . "Cordinates of $player are: $cx / $cy / $cz");
 			}
 			else{
 				$sender->sendMessage(TextFormat::RED . "Player not Online");
 			}
 		} elseif(count($args) == 0) {
 		if($sender instanceof Player) {
-			$sender->sendMessage(TextFormat::GREEN . "Your coordinates are: $x / $y / $z");
+			$sender->sendMessage(TextFormat::GREEN . "Your cordinates are: $x / $y / $z");
 
 		}else{
-			$sender->sendMessage(TextFormat::RED . "PLEASE GO IN THE GAME TO USE THIS COMMAND!");
+			$sender->sendMessage(TextFormat::RED . "Use the command in game!");
 		}
 
 
