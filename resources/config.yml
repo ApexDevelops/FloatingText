@@ -1,24 +1,26 @@
 #===========================================#
-#{ONLINE} Shows the number of players online
-#{MAXONLINE} Show the number of max player online
-#{PLAYERNAME} Shows player's name
-#{MOTE} Show server motd
-#{IP} Show Server ip
-#{PORT} Show server port
-#{VERSION} Show server version
+#{ONLINE} - Shows the number of players online
+#{MAXONLINE} - Show the number of max player online
+#{PLAYERNAME} - Shows player's name
+#{MOTE} - Show server motd
+#{IP} - Show Server ip
+#{PORT} - Show server port
+#{VERSION} - Show server version
 #===========================================#
-LINE1: "§7Welcome back, §b{PLAYERNAME} §7!"
-LINE2: "§7There are §b{ONLINE}/{MAXONLINE} §7Players online!"
+LINE1: "Welcome back, {PLAYERNAME} !"
+LINE2: "There are {ONLINE}/{MAXONLINE} Players online!"
 LINE3: "{IP}:{PORT}"
 LINE4: "{VERSION}"
 LINE5: "{MOTE}"
 
-LINE6: "§7Welcome back, §b{PLAYERNAME} §7!"
-LINE7: "§7There are §b{ONLINE}/{MAXONLINE} §7Players online!"
+LINE6: "Welcome back, {PLAYERNAME} !"
+LINE7: "There are {ONLINE}/{MAXONLINE} Players online!"
 LINE8: "{IP}:{PORT}"
 LINE9: "{VERSION}"
 LINE10: "{MOTE}"
-#Coordinates
+#Cordinates
+# you can find your Cordinates by doing /cords in game
+
 #first text
 Xs: 273
 Ys: 67

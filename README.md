@@ -9,18 +9,19 @@ A very simple floating text for Pockermine-MP plugin.
 - [BlueLight 1.0.0](https://github.com/BlueLightJapan/BlueLight)
 
 # Commands 
-- /cords - to find your Cordinates
+- /cords - find your Cordinates
 
 # Variables:
-- {ONLINE} Shows the number of players online
-- {MAXONLINE} Show the number of max player online
-- {PLAYERNAME} Shows player's name
-- {MOTE} Show server motd
-- {IP} Show Server ip
-- {PORT} Show server port
-- {VERSION} Show server version
+- {ONLINE} - Shows the number of players online
+- {MAXONLINE} - Show the number of max player online
+- {PLAYERNAME} - Shows player's name
+- {MOTE} Show - server motd
+- {IP} - Show Server ip
+- {PORT} - Show server port
+- {VERSION} - Show server version
 
 # Download
 
-- [phar file](https://github.com/ApexDevelops/FloatingText/releases)
+- [releases](https://github.com/ApexDevelops/FloatingText/releases)
 - [poggit](https://poggit.pmmp.io/ci/ApexDevelops/FloatingText/FloatingText)
+- [imagicalmine](https://www.imagicalmine.gq/community/plugins/floatingtext.644/)
